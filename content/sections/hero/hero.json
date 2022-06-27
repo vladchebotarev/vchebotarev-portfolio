@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Vlad Chebotarev",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I design and build ",
+    "highlight": "things for the web3",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Full Stack Developer. Specialized in JavaScript and Solidity.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Medium", "Mail"],
+    "showIcons": true
   }
 }

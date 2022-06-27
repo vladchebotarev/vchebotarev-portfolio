@@ -1,44 +1,42 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://vchebotarev.dev/",
+    "title": "Vlad Chebotarev - Software Developer",
+    "titleTemplate": "Vlad Chebotarev - Software Developer",
+    "description": "Vlad Chebotarev - Software Developer",
+    "author": "Vlad Chebotarev",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Vlad Chebotarev - Software Developer",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/vladchebotarev",
+      "medium": "https://medium.com/@vchebotarev.dev",
+      "linkedin": "https://www.linkedin.com/in/vladchebotarev/",
+      "mail": "mailto:contact@vchebotarev.dev"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "vchebotarev.dev" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Skills", "url": "/#skills" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Vladislav-Chebotarev-CV.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
       "useDarkModeBasedOnUsersPreference": true,
-      "useCookieBar": false
+      "useCookieBar": true
     }
   }
 }

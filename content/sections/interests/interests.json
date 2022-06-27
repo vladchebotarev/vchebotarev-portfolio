@@ -1,59 +1,66 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "JavaScript (ES6+)",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/js.png",
+        "alt": "JavaScript Icon"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/typescript.png",
+        "alt": "TypeScript Icon"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/node.png",
+        "alt": "Node Icon"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React.js",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "React Icon"
       }
     },
     {
-      "label": "Animations",
+      "label": "Vue.js",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/vue.png",
+        "alt": "Vue Icon"
       }
     },
     {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
+      "label": "Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
+        "alt": "Gatsby Icon"
+      }
+    },
+    {
+      "label": "Solidity",
+      "image": {
+        "src": "../../images/solidity.png",
+        "alt": "Solidity Icon"
+      }
+    },
+    {
+      "label": "Python (Django, Flask)",
+      "image": {
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Amazon Web Services",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/aws.png",
+        "alt": "AWS Icon"
       }
     }
   ],
