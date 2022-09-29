@@ -7,12 +7,12 @@
   "title": "I'm Vlad Chebotarev",
   "subtitle": {
     "prefix": "I design and build ",
-    "highlight": "things for the web3",
+    "highlight": "things for the web",
     "suffix": "."
   },
-  "description": "Full Stack Developer. Specialized in JavaScript and Solidity.",
+  "description": "Full Stack Developer. Specialized in JavaScript and TypeScript.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Medium", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

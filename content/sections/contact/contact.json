@@ -1,13 +1,13 @@
 {
-  "name": "Vlad Chebotarev",
+  "name": "Vladislav Chebotarev",
   "email": "contact@vchebotarev.dev",
   "description": "Feel free to reach out to me at any time, I am always interested in new stuff!",
   "image": {
     "src": "../../images/contact.jpg",
-    "alt": "Vlad Chebotarev"
+    "alt": "Vladislav Chebotarev"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Medium", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

@@ -26,17 +26,17 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/Vladislav-Chebotarev-CV.pdf"
+        "label": "Resume | CV",
+        "url": "/Vladislav-Chebotarev-CV-Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
-      "useCookieBar": true
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": false,
+      "useCookieBar": false
     }
   }
 }

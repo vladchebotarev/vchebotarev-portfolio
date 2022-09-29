@@ -3,12 +3,12 @@ imageSrc: "../../images/about-me.jpg"
 imageAlt: "About Me"
 ---
 
-I'am a Full Stack Developer, I grew up in the midst of the digital rise. As a teenager I started building my first websites and got more and more interested in the web development.
+I grew up amid a digital boom. As a teenager, I started building my first websites using HTML and CSS and became increasingly interested in web development.
 
-After school, I started to study **Computer Science as a bachelor's degree** at the Cracow University of Technology. 
+After school, I started studying computer science at the Cracow University of Technology. During my studies, I started working as a junior C++ developer at Ericsson Corporation. After that, I started working as a web developer.
 
-I have a serious passion for Web3 and Blockchain Technologies, frontend development and cloud solutions.
+I started by learning modern web technologies from Laravel (PHP) and Vue.js. In 2018, I began to delve more into Node.js and React. In parallel, I studied cloud platforms, especially Amazon Web Services.
 
-Well-organised person, problem solver, independent employee with high attention to detail. Fan of outdoor activities, TV series and home renovation.
+Recently, I have been seriously interested in Web3 and Blockchain technologies. I devote much time to studying the Solidity language, as I see great potential in this.
 
-Interested in the entire frontend spectrum and working on ambitious projects with positive people.
+I can describe myself as a well-organized person with good problem-solving skills and an independent worker with great attention to detail.
