@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[build.environment]
+  # Gatsby 5 needs Node >= 18; some dependencies need >= 22.12. Matches the local build.
+  NODE_VERSION = "22"
