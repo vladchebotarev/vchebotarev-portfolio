@@ -2,27 +2,40 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://vchebotarev.dev/",
-    "title": "Vlad Chebotarev - Software Developer",
-    "titleTemplate": "Vlad Chebotarev - Software Developer",
-    "description": "Vlad Chebotarev - Software Developer",
+    "title": "Vlad Chebotarev - Full Stack Engineer",
+    "titleTemplate": "Vlad Chebotarev - Full Stack Engineer",
+    "description": "Vlad Chebotarev, Full Stack Engineer in Kraków: Node.js, TypeScript, NestJS, React and Angular; third-party integrations and business automation.",
     "author": "Vlad Chebotarev",
     "avatar": "../content/images/gatsby.png",
-    "bio": "Vlad Chebotarev - Software Developer",
+    "bio": "Vlad Chebotarev - Full Stack Engineer",
     "social": {
       "github": "https://github.com/vladchebotarev",
-      "medium": "https://medium.com/@vchebotarev.dev",
       "linkedin": "https://www.linkedin.com/in/vladchebotarev/",
       "mail": "mailto:contact@vchebotarev.dev"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "vchebotarev.dev" },
+    "logo": {
+      "text": "vchebotarev.dev"
+    },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Skills", "url": "/#skills" },
-        { "label": "Projects", "url": "/#projects" },
-        { "label": "Contact", "url": "/#contact" }
+        {
+          "label": "About",
+          "url": "/#about"
+        },
+        {
+          "label": "Skills",
+          "url": "/#skills"
+        },
+        {
+          "label": "Work",
+          "url": "/#projects"
+        },
+        {
+          "label": "Contact",
+          "url": "/#contact"
+        }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -30,7 +43,10 @@
         "url": "/Vladislav-Chebotarev-Full-Stack-Developer-Resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" }
+        {
+          "label": "Privacy",
+          "url": "/privacy"
+        }
       ]
     },
     "featureToggles": {

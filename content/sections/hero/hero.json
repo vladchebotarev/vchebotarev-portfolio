@@ -6,13 +6,17 @@
   },
   "title": "I'm Vlad Chebotarev",
   "subtitle": {
-    "prefix": "I design and build ",
-    "highlight": "things for the web",
+    "prefix": "I build ",
+    "highlight": "web platforms and integrations",
     "suffix": "."
   },
-  "description": "Full Stack Developer. Specialized in JavaScript and TypeScript.",
+  "description": "Full Stack Engineer with around 10 years of experience in TypeScript and Node.js. I connect products to third-party APIs and automate the manual work around them.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": [
+      "LinkedIn",
+      "Github",
+      "Mail"
+    ],
     "showIcons": true
   }
 }

@@ -6,7 +6,7 @@ module.exports = {
         siteUrl: "https://vchebotarev.dev/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "Vlad Chebotarev - Software Developer", // Used in manifest.json
+          siteName: "Vlad Chebotarev - Full Stack Engineer", // Used in manifest.json
           shortName: "Vlad Chebotarev", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json

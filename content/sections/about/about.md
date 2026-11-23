@@ -3,12 +3,12 @@ imageSrc: "../../images/about-me.jpg"
 imageAlt: "About Me"
 ---
 
-I grew up amid a digital boom. As a teenager, I started building my first websites using HTML and CSS and became increasingly interested in web development.
+I'm a full stack engineer from Kraków with about 10 years of commercial experience, most of it on the backend: Node.js, TypeScript, NestJS and REST APIs, with React and Angular on the front end.
 
-After school, I started studying computer science at the Cracow University of Technology. During my studies, I started working as a junior C++ developer at Ericsson Corporation. After that, I started working as a web developer.
+At First Advantage I work on a platform that routes background-screening orders to third-party vendors. I defined the shared connector interface, build integrations end to end and wrote the monitoring service that takes failing connectors out of routing.
 
-I started by learning modern web technologies from Laravel (PHP) and Vue.js. In 2018, I began to delve more into Node.js and React. In parallel, I studied cloud platforms, especially Amazon Web Services.
+Before that I led a team of four developers at a Kraków law firm, building the internal platform the whole firm ran on, and built a CRM/ERP for a US door distributor as their only developer. I started out as CTO and co-founder of an event-venue booking startup.
 
-Recently, I have been seriously interested in Web3 and Blockchain technologies. I devote much time to studying the Solidity language, as I see great potential in this.
+Alongside my main job I take on freelance projects: web applications and integrations with CRM, accounting and e-commerce platforms.
 
-I can describe myself as a well-organized person with good problem-solving skills and an independent worker with great attention to detail.
+I'm also expanding into LLM application development: LLM APIs, RAG and AI agents.

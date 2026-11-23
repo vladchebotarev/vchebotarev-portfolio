@@ -1,13 +1,6 @@
 {
   "interests": [
     {
-      "label": "JavaScript (ES6+)",
-      "image": {
-        "src": "../../images/js.png",
-        "alt": "JavaScript Icon"
-      }
-    },
-    {
       "label": "TypeScript",
       "image": {
         "src": "../../images/typescript.png",
@@ -15,52 +8,80 @@
       }
     },
     {
+      "label": "JavaScript (ES6+)",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": "JavaScript (ES6+) Icon"
+      }
+    },
+    {
       "label": "Node.js",
       "image": {
         "src": "../../images/node.png",
-        "alt": "Node Icon"
+        "alt": "Node.js Icon"
+      }
+    },
+    {
+      "label": "NestJS",
+      "image": {
+        "src": "../../images/nestjs.png",
+        "alt": "NestJS Icon"
       }
     },
     {
       "label": "React.js",
       "image": {
         "src": "../../images/react.png",
-        "alt": "React Icon"
+        "alt": "React.js Icon"
       }
     },
     {
-      "label": "Vue.js",
+      "label": "Angular",
       "image": {
-        "src": "../../images/vue.png",
-        "alt": "Vue Icon"
+        "src": "../../images/angular.png",
+        "alt": "Angular Icon"
       }
     },
     {
-      "label": "Gatsby",
+      "label": "PostgreSQL",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": "Gatsby Icon"
+        "src": "../../images/postgresql.png",
+        "alt": "PostgreSQL Icon"
       }
     },
     {
-      "label": "Solidity",
+      "label": "Docker",
       "image": {
-        "src": "../../images/solidity.png",
-        "alt": "Solidity Icon"
-      }
-    },
-    {
-      "label": "Python (Django, Flask)",
-      "image": {
-        "src": "../../images/python.png",
-        "alt": ""
+        "src": "../../images/docker.png",
+        "alt": "Docker Icon"
       }
     },
     {
       "label": "Amazon Web Services",
       "image": {
         "src": "../../images/aws.png",
-        "alt": "AWS Icon"
+        "alt": "Amazon Web Services Icon"
+      }
+    },
+    {
+      "label": "Microsoft Azure",
+      "image": {
+        "src": "../../images/microsoftazure.png",
+        "alt": "Microsoft Azure Icon"
+      }
+    },
+    {
+      "label": "API integrations",
+      "image": {
+        "src": "../../images/wrench.png",
+        "alt": "API integrations Icon"
+      }
+    },
+    {
+      "label": "LLM applications (learning)",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": "LLM applications (learning) Icon"
       }
     }
   ],

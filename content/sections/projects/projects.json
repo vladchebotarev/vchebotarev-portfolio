@@ -2,50 +2,73 @@
   "projects": [
     {
       "visible": true,
-      "title": "Simple Quiz Application",
-      "description": "This is a simple react app that allows you to create, solve and share quiz. This app was created for educational purposes to show you how to use React, React Router and Redux.",
-      "tags": ["React.js", "Redux", "React Router"],
+      "category": "First Advantage · 2023 - present",
+      "title": "Vendor integrations for a background-screening platform",
+      "description": "Integration layer of a microservice-based platform that routes background-screening orders (identity, Right to Work, criminal, employment and education checks) to third-party vendors and has processed over 1M orders. I defined the shared connector interface, build vendor integrations end to end and built the monitoring service that health-checks connectors and removes failing ones from routing.",
+      "tags": [
+        "NestJS",
+        "TypeScript",
+        "Azure Functions",
+        "Angular"
+      ],
       "image": {
-        "src": "../../images/react-quiz-app.jpg",
-        "alt": "React Quiz App",
-        "linkTo": "https://quiz.vchebotarev.dev"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/vladchebotarev/react-quiz-app"
-        },
-        {
-          "type": "external",
-          "url": "https://quiz.vchebotarev.dev"
-        }
-      ]
+        "src": "../../images/project-first-advantage.jpg",
+        "alt": "Vendor integrations for a background-screening platform"
+      }
     },
     {
       "visible": true,
-      "title": "GitHub Search - React Hooks",
-      "description": "This is a simple React app that uses the GitHub API to search and view GitHub users. This app was created for educational purposes to show you how to use React Hooks. This application used such hooks as: useEffect, useState, useContext, useReducer and others.",
-      "tags": ["React.js", "React Hooks"],
+      "category": "Kancelaria Prosperitas · 2019 - 2023",
+      "title": "Internal platform for a law firm",
+      "description": "The platform the firm ran on: lead intake, client portal, case management, court calendar and invoicing for up to 150 employees across 10,000+ legal cases. Automated claim preparation cut it from several days to about an hour. From 2020 I led the team of 4 developers behind it.",
+      "tags": [
+        "TypeScript",
+        "Node.js",
+        "React",
+        "PostgreSQL",
+        "AWS"
+      ],
       "image": {
-        "src": "../../images/react-hooks-github-search.jpg",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github-search.vchebotarev.dev"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/vladchebotarev/github-search-react-hooks"
-        },
-        {
-          "type": "external",
-          "url": "https://github-search.vchebotarev.dev"
-        }
-      ]
+        "src": "../../images/project-prosperitas.jpg",
+        "alt": "Internal platform for a law firm"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Milanodoors · 2018 - 2019",
+      "title": "CRM/ERP for a US door distributor",
+      "description": "As the sole developer, built a system used by about 30 employees: sales pipeline, dealer pricing, product configurator with PDF quotes, orders, inventory and shipping. Integrations with QuickBooks Online, Zoho CRM, Mailchimp, PayPal and Authorize.Net mean quotes take minutes instead of hours and nothing is entered twice.",
+      "tags": [
+        "Node.js",
+        "TypeScript",
+        "React",
+        "MySQL"
+      ],
+      "image": {
+        "src": "../../images/project-milanodoors.jpg",
+        "alt": "CRM/ERP for a US door distributor"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Spokoloko · 2017 - 2018",
+      "title": "Event-venue booking startup",
+      "description": "As CTO, co-founder and lead engineer, took the platform from zero to production on AWS. It reached about 200 listed venues and, together with the CMO, top Google rankings, and the company raised seed investment.",
+      "tags": [
+        "Node.js",
+        "React",
+        "MySQL",
+        "AWS"
+      ],
+      "image": {
+        "src": "../../images/project-spokoloko.jpg",
+        "alt": "Event-venue booking startup"
+      }
     }
   ],
   "button": {
-    "visible": true,
-    "label": "View more on Github",
+    "visible": false,
+    "label": "View more on GitHub",
     "url": "https://github.com/vladchebotarev"
   }
 }
